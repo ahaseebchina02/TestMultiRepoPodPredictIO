@@ -1,0 +1,6 @@
+framework module TestMultiRepoPodPredictIO {
+  umbrella header "TestMultiRepoPodPredictIO-umbrella.h"
+
+  export *
+  module * { export * }
+}

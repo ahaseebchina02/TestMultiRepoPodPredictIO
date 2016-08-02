@@ -1,0 +1,16 @@
+PODS:
+  - TestMultiRepoPodPredictIO (0.1.0)
+
+DEPENDENCIES:
+  - TestMultiRepoPodPredictIO (from `../`)
+
+EXTERNAL SOURCES:
+  TestMultiRepoPodPredictIO:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TestMultiRepoPodPredictIO: eacec841557f03de179158fc959110db9f276b84
+
+PODFILE CHECKSUM: 9ec3d8f652f803b680375f0d759521b51e316e6e
+
+COCOAPODS: 1.0.0
