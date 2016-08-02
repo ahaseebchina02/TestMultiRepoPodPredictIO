@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TestMultiRepoPodPredictIO_Example' do
+  pod 'TestMultiRepoPodPredictIO', :path => '../'
+
+  target 'TestMultiRepoPodPredictIO_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
